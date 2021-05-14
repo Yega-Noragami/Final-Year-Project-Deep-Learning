@@ -1,0 +1,14 @@
+### HOW TO RUN THE CLASSIFICATION SCRIPT 
+
+## Install all dependencies (recommend to create a virtual environment)
+pip install -r requirements.txt
+
+
+## RUNNING INSTRUCTIONS
+1. Keep all images in the images folder in the current directory
+
+2. Run python script, it will allow you to select model based on your preferece
+
+3. All results are saved into Classification folder 
+
+# I have saved others models in the results  folder, if you want you can test all models present there, i would recommend using the default ones provided , However if you would like to visualise how the model learns and performs feel free to have a look !
