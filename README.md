@@ -11,7 +11,7 @@ This project consists of implementation of various deep learning methods which a
 
 ### Detection and Cropping 
 - Trained variety of models , including Resnet , Faster-RCNN , Scaled YOLOv4 model
-- Faster-RCNN to crop images of dolphin to reduce dataset size. This mehtod also helps us deal with the issue with multipke dolphins in a picure.
+- Faster-RCNN to crop images of dolphin to reduce dataset size. This mehtod also helps us deal with the issue with multiple dolphins in a picure.
 
 ### Custering of visually similar images 
 - The goal of this program is to cluster images based on visual simmilarity. 
