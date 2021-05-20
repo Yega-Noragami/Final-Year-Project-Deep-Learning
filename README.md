@@ -17,3 +17,6 @@ This project consists of implementation of various deep learning methods which a
 - The goal of this program is to cluster images based on visual simmilarity. 
 - We have used t-SNE dimention reduction mehtods to reduce dataset size.
 - To perform unsupervised clustering, you can use K-means or HDBSCAN to form clusters 
+
+
+##### TO Get saved models you can contact me at manishdhal2017@gmail.com
