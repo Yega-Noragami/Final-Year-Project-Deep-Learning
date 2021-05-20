@@ -11,4 +11,5 @@ This repository has the code for YOLO v3 Object detection, Flask Code and is cap
 ##  Current implementation is based on scaled YOLOv4-P7 model 
 -> fast results, you can view the inferencing results in Terminal window 
 
-# Object-Detection-YOLO
+##### To get saved model contact: manishdhal2017@gmail.com
+
