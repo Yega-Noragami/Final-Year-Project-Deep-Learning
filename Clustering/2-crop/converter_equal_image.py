@@ -20,15 +20,17 @@ def resize():
             fout, e = os.path.splitext(output+item)
             # to be deleted 
             print("this is the output path :", fout)
-            imResize = im.resize((size,size), Image.ANTIALIAS)
-            imResize.save(fout + '.jpg', 'JPEG', quality=90)
-
+            try:
+                imResize = im.resize((size,size), Image.ANTIALIAS)
+                imResize.save(fout + '.jpg', 'JPEG', quality=100)
+            except:
+                pass
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='crop photots to your ratio')
     parser.add_argument("-i",'--image_path' , type = str , required = True , help="Input image folder")
-    parser.add_argument('-s','--size', type = int , required=False , default = 640 , help="Enter Height X Width of the image")
+    parser.add_argument('-s','--size', type = int , required=False , default = 512 , help="Enter Height X Width of the image")
     parser.add_argument('-o','--output_path', type = str , required=True , help='Enter output folder path')
 
     args = parser.parse_args()
