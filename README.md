@@ -2,7 +2,7 @@
 
 
 ## AIM 
-The State Key Laboratory for Marine Population in City Univerdsity of Hong Kong is working on a special project to presere chineses white dolohins.They are applying images diagnostic techniques to find out the health conditon of Dolphins. Data is collected with frequent boat trips along the coastal line of Hong Kong every month. Each Dolphin sighting trip contains thousands of images out of which only few are worthy of diagnostic purposes. The aim of my project is to automate the process of manual image processing. 
+The State Key Laboratory for Marine Population in City University of Hong Kong is working on a special project to preserve Chinese white dolphins.They are applying image diagnostic techniques to find out the health condition of Dolphins. Data is collected with frequent boat trips along the coastal line of Hong Kong every month. Each Dolphin sighting trip contains thousands of images out of which only few are worthy of diagnostic purposes. The aim of my project is to automate the process of manual image processing
 
 ![alt text](https://github.com/Yega-Noragami/Final-Year-Project-Deep-Learning/blob/main/screeshots/idea.png?raw=true)
 
